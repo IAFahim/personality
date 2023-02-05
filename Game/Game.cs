@@ -1,4 +1,4 @@
-﻿namespace personality
+﻿namespace personality.Game
 {
     public class Game
     {

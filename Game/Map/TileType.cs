@@ -1,6 +1,6 @@
 ﻿namespace personality.Game.Map
 {
-    public enum Tile
+    public enum TileType
     {
         Water,
         Rocky,
